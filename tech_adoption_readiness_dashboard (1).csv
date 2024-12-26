@@ -1,0 +1,651 @@
+Company Name,Company Size,Industry,Region,Tech Adoption Year,Adoption Score,GDP per Capita,Market Trend,Regulation Score,Influencer Score,Feedback Score
+Company_1,Large,Retail,Asia,2005,5.24,42947.82,Upward,1.5,3.45,7.62
+Company_2,Small,Manufacturing,Europe,2001,8.48,47925.39,Downward,1,8.03,8.12
+Company_3,Large,Technology,Africa,2017,8.4,44622.44,Downward,1.2,5.4,3.42
+Company_4,Large,Retail,North America,2012,8.33,51865.38,Stable,4.5,0.79,4.34
+Company_5,Small,Healthcare,Europe,2008,0.11,10365.32,Upward,2.3,5.66,8.48
+Company_6,Small,Healthcare,South America,2022,7.5,16056.47,Stable,2.3,9.08,3.63
+Company_7,Large,Retail,South America,2018,7.59,62136.66,Upward,3.8,3.96,7.94
+Company_8,Medium,Retail,Asia,2012,6.78,50904.92,Stable,0.8,2.96,9.41
+Company_9,Large,Manufacturing,Asia,,7.56,16775.9,Downward,2.4,1.43,6.23
+Company_10,Large,Manufacturing,South America,2000,8.42,60524.47,Upward,2.1,1.51,7.42
+Company_11,Large,Healthcare,Asia,2023,4.7,24533.87,Downward,3,4.33,8.05
+Company_12,Large,Technology,North America,2021,5.02,38695.59,Downward,5,5.96,8.45
+Company_13,Small,Healthcare,Asia,2006,1.25,18711.79,Stable,3.8,0.81,3.95
+Company_14,Large,Technology,Africa,2020,3.85,52606.6,Upward,2,9.4,0.51
+Company_15,Medium,Technology,Asia,2014,6.43,50011.27,Downward,4.1,7.55,4.02
+Company_16,Small,Manufacturing,Europe,2000,7.8,22666.75,Stable,0.9,5.87,
+Company_17,Medium,Finance,North America,2011,2.17,61804.05,Upward,0.2,8.28,4.5
+Company_18,Medium,Finance,Europe,2006,1.38,34078.36,Upward,1,0.8,7.49
+Company_19,Medium,Retail,Europe,2014,6.63,27550.91,Downward,1.7,4.77,3.57
+Company_20,Medium,Manufacturing,Africa,2020,0.02,19139.78,Upward,2.6,6.3,6.35
+Company_21,Small,Technology,North America,2018,1.78,25970.08,Downward,3.1,8.29,1.86
+Company_22,Small,Finance,North America,2000,0.29,11321.62,Upward,4.6,7.83,7.49
+Company_23,Medium,Technology,North America,2016,1.67,44995.45,Stable,2.5,2.77,5.46
+Company_24,Medium,Finance,North America,2016,1.81,,Downward,2.5,9.41,2.04
+Company_25,Small,Finance,North America,2002,3.88,42938.83,Downward,0.3,1.24,2.92
+Company_26,Small,Finance,Africa,2011,4.02,23156.44,Upward,0.2,8.75,7.49
+Company_27,Small,Manufacturing,Asia,2005,8.74,12020.15,Upward,2.8,9.71,4.83
+Company_28,Large,Healthcare,Europe,2010,5.1,22877.68,Downward,2.2,1.77,2.16
+Company_29,Large,Technology,North America,2002,7.23,34967.29,Upward,4.2,7.22,9.67
+Company_30,Large,Manufacturing,Asia,2007,1.04,55576.69,Stable,0.8,0.4,7.15
+Company_31,Medium,Manufacturing,Asia,2013,2.25,21270.57,Upward,0.1,4.05,9.57
+Company_32,Large,Manufacturing,Europe,2013,7.03,53187.49,Stable,2.2,5.16,4.27
+Company_33,Medium,Manufacturing,Africa,2009,0.53,62016.01,Stable,1.2,5.81,4.75
+Company_34,Medium,Manufacturing,South America,2001,4.87,37236.81,Stable,0.2,9.36,8.98
+Company_35,Large,Retail,South America,2013,5.99,59285.92,Stable,3.6,6.72,5.25
+Company_36,Medium,Technology,Asia,2008,6.02,43279.44,Stable,0.6,4.81,7.07
+Company_37,Large,Manufacturing,Europe,2002,0.23,48225.45,Upward,3,8.1,2.52
+Company_38,Large,Technology,South America,2020,3.22,41576.71,Stable,1.4,9.51,4.47
+Company_39,Small,Retail,Asia,2007,6.36,37790.36,Upward,0.9,0.22,1.23
+Company_40,Large,Retail,Africa,2015,1.49,24079.21,Stable,1.9,9.83,2.06
+Company_41,Small,Technology,South America,2001,6.95,28191.64,Downward,4,0.86,0.01
+Company_42,Large,Finance,Asia,2005,7.46,27398.21,Stable,2,8.14,0.39
+Company_43,Large,Healthcare,Asia,2020,9.82,43797.34,Downward,3.8,2.8,9.77
+Company_44,Small,Finance,North America,2011,2.1,17197.22,Stable,0.6,1.32,2.42
+Company_45,Small,Finance,Africa,2004,8.25,65007.5,Stable,3.9,4.4,6.63
+Company_46,Large,Finance,North America,2001,5.2,53239.31,Stable,1.2,6.44,8.39
+Company_47,Medium,Manufacturing,Europe,2015,3.73,34086.74,Downward,3.4,3.81,5.51
+Company_48,Small,Retail,North America,2004,1.22,19517.45,Downward,2.8,0.55,1.53
+Company_49,Medium,Finance,North America,2014,7.36,62919.53,Stable,4.6,5.99,7.28
+Company_50,Medium,Retail,South America,2011,2.36,59426.69,Upward,1.9,9.02,6
+Company_51,Medium,Technology,Asia,2003,3.71,53303.29,Stable,0.3,3.83,7.31
+Company_52,Small,Healthcare,Africa,2014,0.63,26292.82,Downward,0.1,2.16,7.7
+Company_53,Medium,Technology,North America,2010,8.01,34146.8,Stable,4.1,4.43,9.75
+Company_54,Small,Technology,Africa,2015,7.67,16164.9,Downward,2.6,0.48,5.74
+Company_55,Medium,Manufacturing,North America,2022,7.34,21342.37,Downward,3.9,8.2,3.42
+Company_56,Large,Healthcare,Europe,2005,2.99,56981,Downward,1.2,8.26,6.48
+Company_57,Large,Technology,North America,2013,1.73,52902.32,Stable,1.7,5.88,0.68
+Company_58,Small,Technology,South America,2017,6.38,45609.15,Downward,0.2,3.53,8.97
+Company_59,Large,Healthcare,Asia,2011,4.96,63743.6,Downward,4.8,8,1.19
+Company_60,Large,Healthcare,Europe,2010,1.78,44995.99,Stable,3.3,5.55,3.28
+Company_61,Medium,Technology,North America,2012,6.86,38018.08,Downward,4.7,8.26,8.16
+Company_62,Small,Healthcare,Africa,2020,9.91,30422.24,Stable,1.3,6.31,5.97
+Company_63,Medium,Technology,Europe,2022,7.47,66426.91,Downward,3.1,7.84,3.94
+Company_64,Medium,Technology,Europe,2010,7.4,14962.93,Upward,3.4,5.99,4.73
+Company_65,Medium,Manufacturing,North America,2022,9.5,65853.24,Upward,1.6,4.14,8.55
+Company_66,Medium,Finance,Europe,2015,2.03,59602.88,Downward,4.2,9.58,3.4
+Company_67,Medium,Technology,Africa,2014,5.66,17795.8,Upward,4.7,5.41,8.7
+Company_68,Medium,Retail,Europe,2020,9.8,43899.06,Stable,4.4,6.05,0.88
+Company_69,Medium,Finance,Africa,2014,1.65,61992.88,Upward,3.7,2.2,7.77
+Company_70,Small,Finance,North America,2003,7,44308.55,Downward,1.4,6.26,8.48
+Company_71,Large,Finance,Asia,2010,5.86,64431.99,Downward,1.4,5.72,1.82
+Company_72,Medium,Manufacturing,Europe,2018,5.86,66579.03,Stable,4.8,1.85,4.3
+Company_73,Medium,Technology,Asia,2014,6.98,35343.07,Downward,0.1,0.6,1.65
+Company_74,Medium,Manufacturing,Africa,2003,9.3,32638.82,Stable,3.6,6.04,7.07
+Company_75,Medium,Technology,Europe,2020,7.83,66179.27,Upward,3.5,7.64,5.35
+Company_76,Medium,Manufacturing,South America,2012,0.56,50508.4,Upward,3.1,5.23,6.35
+Company_77,Medium,Manufacturing,Asia,2021,8.53,16961.36,Stable,5,2.27,1.96
+Company_78,Large,Retail,Europe,2018,2.26,12537.5,Stable,1.6,6.67,2.12
+Company_79,Large,Manufacturing,Asia,2001,3.77,43877.74,Downward,1.7,0.8,0.41
+Company_80,Medium,Healthcare,Europe,2013,4.62,65810.26,Upward,0.4,4.42,3.22
+Company_81,Large,Retail,North America,2003,4.81,60654.92,Stable,2.2,1.63,5.6
+Company_82,Small,Manufacturing,Asia,2015,4.35,50550.86,Upward,1.3,1.84,8.58
+Company_83,Medium,Finance,South America,2020,9.37,18346.95,Stable,1.7,2.02,6.67
+Company_84,Small,Healthcare,South America,2019,7.06,25253.88,Upward,4.2,3.87,4.35
+Company_85,Small,Healthcare,Africa,2013,6.31,62530.67,Downward,4.7,0.51,9.53
+Company_86,Medium,Healthcare,Europe,2014,0.5,20968.43,Upward,0.9,3.98,7.19
+Company_87,Large,Retail,Asia,2002,9.04,26706.36,Upward,1.9,5.12,9.3
+Company_88,Small,Manufacturing,Africa,2007,9.09,17776.04,Upward,4.6,4.83,5.28
+Company_89,Medium,Manufacturing,Asia,2015,7.8,50566.49,Upward,0.3,3.83,2.59
+Company_90,Small,Finance,Europe,2009,0.07,66638.94,Upward,0.5,8.39,0.53
+Company_91,Small,Finance,South America,2003,0.57,26138.08,Downward,0.8,1.45,7.26
+Company_92,Small,Healthcare,North America,2017,2.25,38524.4,Stable,3,5.06,1.21
+Company_93,Small,Finance,South America,2001,1.31,48060.38,Upward,0.8,0.62,3.03
+Company_94,Large,Retail,Africa,2016,3.99,69967.97,Downward,4.8,0.71,5.32
+Company_95,Small,Manufacturing,North America,2012,9.23,16288.48,Upward,2.2,5.74,5.64
+Company_96,Small,Healthcare,Africa,2003,4.72,39914.25,Upward,2.5,5.66,6.01
+Company_97,Small,Finance,Europe,2010,0.13,33107.21,Stable,1.2,8.78,1.66
+Company_98,Large,Retail,North America,2006,2.83,61949.21,Upward,2.4,5.58,3.8
+Company_99,Small,Retail,Africa,2011,0.45,38558.06,Downward,3.3,9.6,6.17
+Company_100,Small,Finance,Europe,2009,0.36,16658.65,Downward,3.8,0.49,9.7
+Company_101,Large,Manufacturing,South America,2006,2.76,48065.45,Stable,3.8,0.98,7.28
+Company_102,Large,Finance,Europe,2012,2.76,56246.84,Upward,2.9,0.44,9.23
+Company_103,Large,Healthcare,Asia,2006,7.87,10172.88,Downward,4.5,1.85,7.62
+Company_104,Small,Finance,Europe,2023,9.75,61537.4,Upward,4.1,5.41,5.92
+Company_105,Large,Retail,Europe,2016,3.71,21161.38,Upward,3.8,6.46,1.92
+Company_106,Large,Finance,Asia,2009,4.29,43124.16,Upward,0.3,0.46,6.67
+Company_107,Small,Manufacturing,Africa,2009,8.45,34947.85,Stable,0,9.46,6.23
+Company_108,Large,Technology,Africa,2023,2.68,53179.23,Upward,1.1,8.42,6.02
+Company_109,Small,Finance,Europe,2003,1.56,32269.7,Downward,3.3,2.97,4.9
+Company_110,Medium,Manufacturing,Asia,2019,8.53,62185.79,Upward,2.1,0.77,5.29
+Company_111,Large,Manufacturing,Asia,2003,0.47,53829.78,Downward,2,1.7,3.34
+Company_112,Medium,Retail,South America,2021,6.2,48862.79,Upward,4.4,1.27,5.19
+Company_113,Small,Manufacturing,Africa,2006,5.62,57774.44,Downward,4.5,1.23,1.98
+Company_114,Large,Manufacturing,North America,2021,3.46,55241.38,Downward,4.5,5.19,8.05
+Company_115,Small,Manufacturing,Africa,2000,3.15,12156.32,Upward,1.6,2.46,1.86
+Company_116,Medium,Manufacturing,Africa,2011,7.72,33684.06,Upward,3.5,3.58,0.85
+Company_117,Small,Healthcare,South America,2023,0.86,65848.44,Downward,1.4,9.9,4.36
+Company_118,Large,Healthcare,North America,2012,2.37,17543.46,Stable,1,6.84,6.58
+Company_119,Large,Retail,South America,2009,7.32,54225.79,Upward,0.9,9.49,4.38
+Company_120,Medium,Finance,North America,2014,5.48,68475.51,Stable,1.7,1.43,2.77
+Company_121,Small,Manufacturing,Europe,2012,1.28,13131.92,Upward,2.1,3.82,5.58
+Company_122,Large,Finance,North America,2022,8.82,50931.63,Upward,4.2,5.55,3.47
+Company_123,Medium,Finance,South America,2021,3.93,38089.25,Upward,0.6,0.77,9.33
+Company_124,Large,Retail,Africa,2021,8.28,44750.52,Upward,3.7,0.04,9.23
+Company_125,Large,Manufacturing,North America,2020,7.88,15120.48,Stable,2.7,6.7,5.02
+Company_126,Small,Manufacturing,North America,2021,6.24,12580.42,Upward,1.4,6.42,3.28
+Company_127,Large,Technology,Asia,2008,4.94,50012,Downward,2.5,4.11,7.37
+Company_128,Small,Finance,Africa,2008,9.8,59398.57,Downward,1.5,4.9,0.37
+Company_129,Large,Finance,Europe,2014,1.45,56920.92,Stable,3,4.15,4.75
+Company_130,Medium,Healthcare,South America,2009,7.25,42628.34,Upward,2.2,0.24,3.36
+Company_131,Large,Technology,Europe,2023,1.91,15992.01,Downward,0.8,3.35,9.21
+Company_132,Small,Healthcare,Africa,2009,3.38,51282.67,Stable,0.6,1.77,0.12
+Company_133,Small,Healthcare,North America,2007,3.09,24513.33,Upward,2.7,0.98,5.53
+Company_134,Medium,Healthcare,North America,2023,9.47,64664.12,Downward,4.5,9.57,7.41
+Company_135,Large,Retail,Africa,2015,9.67,60295.92,Downward,1.7,5.99,4.85
+Company_136,Large,Retail,North America,2016,1.83,52562.98,Stable,3.7,7.29,0.85
+Company_137,Medium,Healthcare,North America,2004,0.22,66930.76,Upward,3.3,3.15,9.72
+Company_138,Large,Technology,North America,2003,7.2,11885.31,Upward,4.7,3.93,5.18
+Company_139,Large,Finance,South America,2017,4.18,54172.03,Downward,4.1,2.37,6.14
+Company_140,Small,Technology,South America,2023,0.89,29814.57,Downward,2.8,0.97,2.37
+Company_141,Large,Manufacturing,Asia,2018,6.84,64363.95,Downward,3.3,1.79,4.83
+Company_142,Large,Retail,Europe,2003,5.45,26000.51,Upward,4.5,7.98,4.29
+Company_143,Medium,Finance,Africa,2006,9.81,53491.39,Stable,2,6.78,0.75
+Company_144,Medium,Finance,Africa,2009,2.27,62658.82,Stable,1.6,5.47,1.06
+Company_145,Small,Manufacturing,Africa,2017,4.04,12499.41,Upward,0.1,4.75,8.37
+Company_146,Large,Manufacturing,Asia,2018,5.43,33858.85,Stable,4.1,9.22,2.4
+Company_147,Large,Healthcare,South America,2003,7.92,55738.54,Downward,4,0.73,1.95
+Company_148,Large,Retail,Asia,2009,5.49,37295.13,Stable,0.5,2.81,5.05
+Company_149,Small,Retail,Africa,2000,6.13,26035.16,Stable,2.9,3.5,7.69
+Company_150,Small,Technology,Europe,2022,2.26,23188.32,Stable,2.3,7.82,0.62
+Company_151,Medium,Healthcare,North America,2017,8.47,17891.1,Downward,0.6,9.93,5.77
+Company_152,Small,Healthcare,South America,2004,4.29,61427.77,Upward,4.9,2.41,1.19
+Company_153,Large,Healthcare,South America,2014,1.41,44521.32,Downward,1.1,8.74,0.36
+Company_154,Large,Healthcare,Asia,2016,6.64,14583.1,Upward,0.3,8.31,0.53
+Company_155,Small,Retail,South America,2002,2.16,32954.82,Upward,3,2.25,8.34
+Company_156,Large,Retail,Africa,2011,0.98,32064.02,Upward,3.7,3.99,1.18
+Company_157,Large,Healthcare,Africa,2001,8.62,20904.35,Stable,0.2,4.1,0.45
+Company_158,Small,Technology,Asia,2000,4.6,36130.46,Stable,3.3,9.78,4.38
+Company_159,Small,Finance,Africa,2022,7.49,29925.96,Upward,2.7,1.81,8.44
+Company_160,Large,Finance,Europe,2020,2.91,30508.22,Upward,0.5,7.99,2.62
+Company_161,Large,Technology,Asia,2016,7.87,54341.59,Stable,0.9,3.34,4.22
+Company_162,Large,Healthcare,Europe,2021,1.12,23395.8,Downward,2.8,7.31,0.4
+Company_163,Medium,Retail,North America,2015,3.56,48511.6,Upward,1.5,4.2,4.49
+Company_164,Medium,Finance,Europe,2004,9.78,44238.98,Downward,4.7,5.78,5.78
+Company_165,Medium,Manufacturing,North America,2014,7.94,44085.55,Stable,4.1,8.33,5.71
+Company_166,Small,Manufacturing,North America,2002,4.97,49780.44,Upward,4.9,8.04,3.32
+Company_167,Medium,Technology,Europe,2006,3.4,42902.92,Downward,1.3,8.66,3.16
+Company_168,Small,Healthcare,Asia,2010,8.72,62755.31,Downward,4.8,0.6,1.07
+Company_169,Small,Finance,Africa,2009,5.45,50534.81,Downward,2.2,6.92,3.67
+Company_170,Medium,Healthcare,Africa,2008,7.58,42817.8,Stable,1.7,1.4,0.99
+Company_171,Medium,Finance,North America,2013,7.54,59785.79,Stable,0.3,4.16,7.67
+Company_172,Medium,Technology,North America,2012,0.18,46368.79,Downward,0.3,5.49,9.66
+Company_173,Large,Technology,Asia,2001,1.26,27468.65,Downward,3.5,4.03,9.7
+Company_174,Medium,Manufacturing,South America,2002,6.6,22425.7,Stable,2.3,5.2,8.65
+Company_175,Large,Healthcare,Europe,2006,1.62,19139.67,Downward,1.1,9.97,6.01
+Company_176,Small,Manufacturing,North America,2020,2.55,63967.31,Downward,3.1,1.35,7.01
+Company_177,Large,Healthcare,Africa,2017,9.47,52608.13,Stable,1.3,6.75,2.85
+Company_178,Medium,Manufacturing,Asia,2002,5.6,66242.71,Downward,2.9,3.96,6.31
+Company_179,Small,,Europe,2009,7.51,46197.51,Downward,1.8,1.33,4.56
+Company_180,Small,Retail,Asia,2021,5.58,38404.05,Downward,4.1,1.59,4.82
+Company_181,Small,Retail,Europe,2006,5.53,13582.99,Stable,4.1,9.49,7.58
+Company_182,Large,Retail,Europe,2008,,50298.54,Downward,2.4,8.8,2.82
+Company_183,Medium,Finance,North America,2016,3.44,44932.53,Stable,1.8,9.07,3.18
+Company_184,Small,Retail,Asia,2010,2.82,69412.53,Stable,1.8,9.92,9.25
+Company_185,Small,Technology,Asia,2006,3.91,24349.53,Upward,4,2.08,0.56
+Company_186,Small,Technology,Africa,2023,7.98,41844.24,Upward,1.6,3.55,4.86
+Company_187,Large,Finance,Africa,2013,3.72,49057.44,Downward,1,6.69,9.13
+Company_188,Large,Retail,North America,2018,4.52,48675.47,Stable,0.4,4.84,6.1
+Company_189,Medium,Retail,North America,2003,3.97,43677.61,Upward,2.3,4.18,5.46
+Company_190,Large,Retail,South America,2005,0.93,56615.68,Downward,2.4,3.58,2.5
+Company_191,Small,Manufacturing,Africa,2009,4.41,22298.87,Upward,4.2,5.94,3.43
+Company_192,Medium,Healthcare,Europe,2006,1.96,53537.63,Upward,1.1,5.76,8.52
+Company_193,Small,Manufacturing,Asia,2012,1.87,47184.07,Stable,1.9,1.61,5.59
+Company_194,Small,Healthcare,North America,2013,0.94,63764.51,Stable,4,4.72,5.15
+Company_195,Large,Retail,Asia,2003,3.57,60831.67,Upward,4.1,5.53,1
+Company_196,Medium,Retail,Asia,2007,7.57,28908.82,Upward,1.9,5.7,0.16
+Company_197,Large,Manufacturing,South America,2004,2.76,26574.24,Stable,2.3,2.1,9.64
+Company_198,Large,Manufacturing,Africa,2000,3.12,68899.2,Downward,1.5,7.42,3.77
+Company_199,Medium,Healthcare,North America,2003,6.43,41635.91,Stable,4.7,0.25,6.03
+Company_200,Small,Technology,Asia,2002,1.96,64385.26,Upward,0.6,3.55,0.8
+Company_201,Small,Healthcare,North America,2008,8.97,19832.86,Downward,4.7,7.8,6.83
+Company_202,Medium,Manufacturing,Europe,2007,5.2,48569.13,Upward,3.4,5.64,9.33
+Company_203,Small,Manufacturing,South America,2000,4.48,58591.61,Downward,2.7,2.61,5.76
+Company_204,Medium,Finance,Europe,2005,,66843.71,Upward,0.2,6.95,1.26
+Company_205,Medium,Manufacturing,North America,2008,1.66,30240.41,Downward,2.4,5.67,5.82
+Company_206,Large,Finance,North America,2006,6.13,53498.87,Downward,2,7.96,7.66
+Company_207,Medium,Technology,Africa,2003,3.63,42328.78,Upward,0.8,7.35,4.06
+Company_208,Large,Healthcare,Asia,2012,8.97,13637.74,Downward,3.3,6.1,8.8
+Company_209,Small,Healthcare,Asia,2016,1.69,51399.98,Stable,4.9,4.88,6.49
+Company_210,Small,Finance,Europe,2001,5.07,51405.79,Upward,2.8,1.33,8.99
+Company_211,Small,Healthcare,South America,2004,5.98,65836.41,Stable,3.6,2.61,6.24
+Company_212,Small,Manufacturing,Asia,2011,0.33,39838.75,Upward,0.3,4.19,1.31
+Company_213,Large,Retail,Africa,2020,3.64,23815.06,Downward,2.1,5.99,3.1
+Company_214,Small,Finance,Europe,2007,7.33,12673.83,Downward,0.6,5.14,2.02
+Company_215,Medium,Healthcare,Europe,2005,8.2,34938.53,Downward,3.1,2.88,9.09
+Company_216,Medium,Finance,Africa,2007,,28115,Upward,4.7,0.06,7.6
+Company_217,Medium,Finance,South America,2017,7.99,55665.3,Stable,3.3,4.96,6.76
+Company_218,Large,Retail,Africa,2002,,31256.07,Stable,0.4,2.86,3.01
+Company_219,Small,Manufacturing,South America,2021,8.57,66944.27,Upward,1.8,7.35,1.84
+Company_220,Small,Finance,Africa,2011,1.18,67738.61,Upward,2.8,0.24,7.56
+Company_221,Small,Healthcare,Africa,2002,7.4,47254.52,Stable,2,5.85,4.74
+Company_222,Large,Technology,North America,2021,3.2,65719.62,Stable,4.2,9.41,2.26
+Company_223,Medium,Finance,Europe,2005,9.88,55651.26,Stable,4.1,1.74,6.17
+Company_224,Medium,Finance,Africa,2001,4.85,42811.58,Stable,3.1,4.72,0.4
+Company_225,Small,Retail,Africa,2022,1.22,20818.48,,1.9,0.91,3.26
+Company_226,Medium,Manufacturing,Asia,2011,7.25,37515.88,Upward,1.3,6.26,4.69
+Company_227,Medium,Technology,Europe,2001,3.23,43652.47,Downward,0.5,5.51,1.48
+Company_228,Large,Healthcare,Asia,2005,9.97,61837.69,Stable,1.8,4.07,9.85
+Company_229,Large,Technology,Europe,2016,9.8,38880,Downward,2.1,5.21,2.09
+Company_230,Large,Healthcare,Asia,2002,6.56,63860.48,Upward,3.4,8.97,1.3
+Company_231,Large,Manufacturing,Africa,2001,1.3,50460.94,Upward,3.3,1.96,2.04
+Company_232,Small,Healthcare,Africa,2022,6.87,18219.94,Downward,0.4,0.23,7.69
+Company_233,Large,Retail,North America,2019,,69698.88,Stable,2,8.62,4.26
+Company_234,Medium,Retail,Asia,2007,0.29,41633.96,Stable,0.9,5.77,5.65
+Company_235,Small,Retail,South America,2021,8.23,33511.5,Stable,0.8,8.91,0.21
+Company_236,Medium,Retail,North America,2011,2.1,49546.83,Stable,4.1,5.97,0.34
+Company_237,Medium,Technology,Asia,2003,3.79,16533.6,Downward,0.2,8.1,4.46
+Company_238,Medium,Manufacturing,Asia,2004,9.73,48192.32,Downward,2.1,4.3,8.17
+Company_239,Large,Healthcare,North America,2012,3.37,39894.16,Upward,0.8,7.5,8.85
+Company_240,Large,Healthcare,Africa,2014,2.96,34400.44,Stable,4.4,9.13,0.87
+Company_241,Small,Retail,Asia,2022,9.18,67181.2,Stable,2.8,5.72,5.38
+Company_242,Small,Retail,Africa,2015,1.11,41352.38,Stable,1.2,1.81,9.13
+Company_243,Large,Finance,North America,2009,7.6,23147.05,Downward,2.5,2.69,3.88
+Company_244,Medium,Manufacturing,Africa,2022,9.88,37537.81,Stable,3.7,1.99,8.3
+Company_245,Small,Technology,Europe,2015,9.01,65163.24,Downward,4.8,2.47,1.34
+Company_246,Large,Healthcare,South America,2011,6.52,20565.73,Stable,1.1,3.06,9.35
+Company_247,Large,Finance,Asia,2016,3.14,22837.42,Stable,4.4,5.55,7.51
+Company_248,Large,Finance,South America,2015,2.54,10781.77,Upward,4.7,5.88,9.41
+Company_249,Medium,Healthcare,Africa,2011,8.19,10851.4,Stable,4.6,4.26,6.77
+Company_250,Large,Technology,Asia,2007,8.8,59763.5,Stable,3.2,6.15,3.63
+Company_251,Large,Finance,Africa,2019,5.25,53927.36,Upward,3.1,0.82,9.38
+Company_252,Large,Finance,Europe,2002,2.44,31302.46,Downward,2,0.88,2.76
+Company_253,Large,Manufacturing,North America,2015,1.13,51898.67,Downward,3.8,1.72,3.32
+Company_254,Small,Technology,Asia,2012,0.87,33712.36,Stable,2.7,5.18,7.01
+Company_255,Small,Finance,Europe,2022,7.19,67173.81,Downward,3.4,2.14,7.65
+Company_256,Large,Technology,Europe,2018,4.2,68023.16,Stable,2.1,2.83,9.29
+Company_257,Medium,Healthcare,Asia,2007,9.05,33567.63,Upward,3.7,4,2.05
+Company_258,Small,Retail,Africa,2021,7.4,61253.31,Upward,4.1,8.12,7.98
+Company_259,Large,Finance,Europe,2004,1.91,56385.34,Stable,0.7,0.14,7.39
+Company_260,Small,Manufacturing,South America,2019,6.14,28600,Upward,4.2,6.49,0.64
+Company_261,Small,Healthcare,Europe,2007,4.36,23922.39,Upward,2.7,6.69,3.87
+Company_262,Medium,Technology,Africa,2023,5.77,37494.08,,4.2,7.99,2.83
+Company_263,Large,Healthcare,Africa,2011,7.38,56880.93,Stable,2.2,9.33,3.04
+Company_264,Large,Finance,South America,2000,8.06,67610.07,Upward,1.9,0.2,9.83
+Company_265,Medium,Technology,Europe,2020,8.44,55814.74,Downward,4.6,1.54,6.43
+Company_266,Medium,Retail,Africa,2019,2.54,61312.42,Downward,1.3,8.86,7.18
+Company_267,Large,Healthcare,Asia,2005,0.31,46183.86,Stable,4.2,4.59,9.77
+Company_268,Large,Finance,North America,2021,7.39,60124.47,Stable,2.4,5.65,3.77
+Company_269,Medium,Manufacturing,North America,2017,1.06,57065.25,Downward,2.6,6.63,8.02
+Company_270,Small,Technology,North America,2007,3.15,32619.13,Upward,1.5,6.79,4.35
+Company_271,Small,Healthcare,Europe,2006,0.04,43119.42,Downward,2.9,9.32,8.7
+Company_272,Medium,Healthcare,South America,2000,6.82,58285.19,Downward,1.6,9.97,1.81
+Company_273,Small,Retail,Africa,2020,1.67,12763.4,Downward,0.2,7.2,9.48
+Company_274,Medium,Retail,Asia,2015,6.55,58484.76,Downward,1.4,2.87,2.19
+Company_275,Small,Manufacturing,Asia,2011,9.92,20673.29,Stable,0,8.8,3.26
+Company_276,Small,Manufacturing,Europe,2005,0.73,40881.02,Stable,4.9,0.49,7.56
+Company_277,Large,Finance,North America,2019,0.77,58496.53,Upward,4.8,2.31,3.94
+Company_278,Large,Finance,Europe,2001,3.4,25229.26,Upward,2,8.97,6.08
+Company_279,Small,Manufacturing,South America,2013,8.66,24748.45,Upward,3.6,2.56,4.45
+Company_280,Small,Manufacturing,South America,2003,2.16,34165.86,Upward,1.7,2.21,7.42
+Company_281,Large,Technology,Africa,2000,3.6,63678.57,Downward,3.4,1.38,2.28
+Company_282,Large,Retail,Africa,2022,0.69,10026.57,Stable,4,8.59,0.58
+Company_283,Large,Finance,South America,2017,7.63,64082.99,Stable,4.7,5,3
+Company_284,Medium,Retail,South America,2012,4.08,19228.42,Upward,2,6.75,4.74
+Company_285,Small,Retail,South America,2001,7.59,69405.18,Upward,3.9,2.39,1.68
+Company_286,Large,Manufacturing,Europe,2008,9.04,67290.82,Downward,1.3,7.58,3.55
+Company_287,Small,Technology,South America,2020,2.33,39680.51,Downward,5,7.6,4
+Company_288,Medium,Healthcare,Asia,2001,8.07,40763.21,Upward,0.1,3.13,0.57
+Company_289,Medium,Technology,North America,2008,0.59,38892.96,Stable,3,4.11,5.83
+Company_290,Large,Technology,South America,2000,8.99,48126.62,Stable,3.3,2.1,8.84
+Company_291,Medium,Retail,North America,2010,6.51,15443.3,Stable,3.4,9.77,1.52
+Company_292,Small,Technology,Europe,2002,8.74,11957.08,Upward,0.6,6.46,5.98
+Company_293,Large,Finance,North America,2019,0,13462.18,Stable,4.7,9.35,6.65
+Company_294,Small,Retail,Europe,2022,1.69,36661.92,Downward,0.9,3.03,4.19
+Company_295,Small,Finance,Asia,2003,3.9,26532.88,Downward,3.1,7.82,7.01
+Company_296,Medium,Healthcare,Europe,2017,3.8,47322.37,Upward,1.1,7.66,4.11
+Company_297,Medium,Retail,Europe,2022,2.27,69546.54,Downward,1.5,6.92,5.05
+Company_298,Medium,Healthcare,Africa,2005,3.82,33179.39,Upward,2.7,,0.07
+Company_299,Medium,Retail,South America,2002,1.29,44430.48,Stable,2.1,3.94,6.92
+Company_300,Medium,Manufacturing,South America,2021,4.13,34936.23,Stable,0.8,1.31,6.61
+Company_301,Large,Technology,Asia,2010,8.02,60836.3,Stable,0.9,6.72,0.38
+Company_302,Small,Manufacturing,Asia,2014,4.79,64134.18,Downward,2.1,7.29,3.68
+Company_303,Small,Healthcare,South America,2021,0.18,62641.34,Upward,3.8,5.75,9.79
+Company_304,Small,Technology,Africa,2004,4.21,68462.33,Stable,4.5,2.07,4.21
+Company_305,Small,Retail,South America,2019,0.27,11651.15,,0.4,5.04,5.02
+Company_306,Medium,Technology,Africa,2009,9.66,60388.97,,2,3.12,
+Company_307,Small,Finance,Asia,2011,1.27,55106.33,Downward,0.5,4.27,7.17
+Company_308,Large,Technology,North America,2014,7.08,23721.66,Downward,0.1,6.45,5.82
+Company_309,Large,Finance,Asia,2016,9.73,67379.21,Upward,3.3,7.45,7.98
+Company_310,Small,Technology,Asia,2009,8.26,18890.68,Downward,3,2.32,8.64
+Company_311,Small,Finance,Europe,2005,6.99,50773,Downward,0.8,4.05,4.57
+Company_312,Large,Healthcare,Europe,2017,8.39,23493.41,Upward,1.2,2.69,4.75
+Company_313,Large,Manufacturing,Europe,2012,9.82,35882.84,Stable,0.1,1.99,3.86
+Company_314,Medium,Retail,Europe,2002,6.21,53149.59,Downward,4.2,7.83,9.67
+Company_315,Large,Technology,Africa,2023,5.59,43799.48,Upward,4.9,9.09,6.97
+Company_316,Medium,Manufacturing,South America,2009,6.28,35650.11,Downward,0.7,3.7,0.83
+Company_317,Medium,Retail,North America,2013,5.33,29580.31,Downward,1.2,7.51,8.63
+Company_318,Medium,Retail,Asia,2005,6.35,60379.58,Downward,4.3,8.97,4.81
+Company_319,Medium,Finance,Africa,2002,4.5,18628.86,Downward,4.6,8.46,0.69
+Company_320,Medium,Healthcare,North America,2015,2.18,35806.17,Upward,2.1,1.83,5.5
+Company_321,Small,Healthcare,Africa,2006,1.2,64225.45,Upward,0.3,9.56,4.17
+Company_322,Large,Manufacturing,Africa,2019,0.68,,Upward,0.2,3.77,8.78
+Company_323,Medium,Healthcare,Asia,2013,2.63,,Downward,2.9,3.39,2.04
+Company_324,Large,Technology,South America,2008,0.46,55786.5,Downward,2,0.62,8.26
+Company_325,Large,Healthcare,Europe,2014,5.67,59389.65,,0.1,4.86,5.58
+Company_326,Medium,Manufacturing,South America,2020,2.84,63333.25,Upward,2.9,1.09,0.55
+Company_327,Small,Healthcare,Asia,2002,8.25,42670.35,Downward,0.1,2.49,9.72
+Company_328,Medium,Technology,Asia,2001,0.74,22267.65,Stable,3.9,3.17,5.13
+Company_329,Small,Finance,Asia,2001,2.26,25318.54,Downward,1.5,8.09,2.91
+Company_330,Large,Manufacturing,North America,2002,7.3,27741.68,Stable,0.2,8.75,4.69
+Company_331,Small,Finance,South America,2017,5.99,45628.15,Downward,2.9,3.02,8.58
+Company_332,Small,Finance,South America,2013,0.64,11968.58,Upward,2,8.59,3.05
+Company_333,Small,Finance,Africa,2019,8.77,48162.55,Downward,4.9,8.57,1.93
+Company_334,Large,Retail,Africa,2017,8.77,31861.25,Stable,2.7,7.65,1.29
+Company_335,Large,Retail,Africa,2009,3.3,27714.51,Stable,1.4,1.47,2.98
+Company_336,Small,Finance,Asia,2001,3.4,62769.79,Downward,3.5,6.9,
+Company_337,Small,Manufacturing,South America,2021,9.89,37600.14,Stable,1.4,9.45,4.72
+Company_338,Medium,Technology,Asia,2000,6.26,15703.18,Stable,4.5,6.83,2.27
+Company_339,Small,Technology,North America,2003,5.31,59604.81,Upward,1.9,3.32,1.66
+Company_340,Medium,Healthcare,Africa,2013,8.38,12858.48,Downward,2.7,5.01,3.33
+Company_341,Small,Manufacturing,Asia,2000,2.85,53604.95,Downward,0.3,6.46,9.4
+Company_342,Medium,Retail,Asia,2013,4.29,,Downward,2.1,5.11,3.43
+Company_343,Large,Finance,North America,2015,2.68,31156.16,Stable,4.2,1.2,9.88
+Company_344,Small,Healthcare,Europe,2021,7.89,59487.27,Downward,4,3.12,4.85
+Company_345,Small,Technology,South America,2013,5.73,40939.56,Downward,1.1,8.02,1.79
+Company_346,Small,Retail,Europe,2019,6.59,37797.62,Upward,1.1,8.61,8.91
+Company_347,Small,Retail,Africa,2002,2.52,12724.2,Upward,4.1,1.37,4.6
+Company_348,Medium,Finance,Asia,2002,2.2,27401.75,Upward,4.7,9.52,7.1
+Company_349,Small,Technology,North America,2008,4.88,65860.6,Stable,0.5,3.29,9.84
+Company_350,Large,Manufacturing,North America,2005,7.38,33509.44,Downward,2.3,6.62,0.5
+Company_351,Large,Retail,South America,2012,5.25,42802.03,Upward,1.7,7.52,0.97
+Company_352,Small,Finance,Europe,2020,0.33,41921.3,Upward,4.4,8.12,7.2
+Company_353,Large,Manufacturing,South America,2001,8.69,45425.87,Upward,0.4,9.46,2.82
+Company_354,Small,Technology,Asia,2007,0.65,13679.86,Downward,1.1,3.13,1.84
+Company_355,Small,Retail,South America,2020,9.56,31730.58,Downward,3.8,8.59,0.39
+Company_356,Large,Manufacturing,North America,2001,0.25,53387.7,Downward,0.3,1.32,0.22
+Company_357,Small,Manufacturing,North America,2003,6.94,22033.62,Stable,2.5,7.05,7.74
+Company_358,Large,Manufacturing,Africa,2014,0.82,22214.7,Stable,2.2,7.42,1.34
+Company_359,Medium,Retail,Africa,2003,9.11,10605.44,Upward,1.7,6.78,4.68
+Company_360,Small,Retail,Asia,2012,4.64,36248.92,Downward,2,2.52,6.06
+Company_361,Medium,Healthcare,Europe,2011,1.38,62964.06,Upward,2.6,8.73,4.28
+Company_362,Large,Technology,South America,2012,3.41,,Downward,0.8,1.69,0.27
+Company_363,Medium,Finance,Asia,2013,1.65,21467.12,Downward,2.9,0.54,7.84
+Company_364,Medium,Manufacturing,Africa,2019,1.71,28605.07,Downward,4,7.17,0.11
+Company_365,Large,Healthcare,South America,2017,9.48,53903.48,Stable,3.8,4.75,7.62
+Company_366,Medium,Finance,Africa,2005,4.45,48438.14,Stable,0.8,8.49,8.93
+Company_367,Medium,Healthcare,South America,2010,7.89,34956.63,Downward,0.7,3.83,4.33
+Company_368,Large,Retail,Europe,2001,6.4,55544.14,Upward,1.3,1.68,5.36
+Company_369,Medium,Manufacturing,Asia,2022,6.76,46577.86,Downward,1.8,8.36,4.77
+Company_370,Large,Finance,South America,2018,1.32,63762.45,Downward,2,5.49,3.89
+Company_371,Medium,Finance,North America,2018,2.34,59081.6,Upward,3.4,1.89,8.87
+Company_372,Large,Finance,North America,2004,7.87,25168.82,Downward,0.3,7.2,
+Company_373,Large,Finance,South America,2018,9.71,26286.31,Upward,0.2,5.11,3.36
+Company_374,Medium,Finance,South America,2001,2.63,17521.39,Stable,2,6.04,6.15
+Company_375,Medium,Healthcare,South America,2009,2.72,30217.88,Stable,3.5,4.61,9.27
+Company_376,Medium,Manufacturing,North America,2001,4.73,69972.64,Upward,1,8.29,9.62
+Company_377,Small,Retail,North America,2010,9.84,34345.07,Stable,3.2,8.3,5.09
+Company_378,Small,Retail,South America,2017,2.69,23229.31,Stable,1.3,7.09,4.53
+Company_379,Small,Retail,Africa,2023,4.07,55748.97,Upward,4.4,1.05,2.79
+Company_380,Large,Retail,Africa,2014,8.91,42548.26,Stable,4.5,8.39,9.59
+Company_381,Medium,Healthcare,Europe,2008,0.03,18976.09,Downward,1.5,6.71,1.43
+Company_382,Large,Technology,Asia,2022,0.4,32841.38,Downward,1.1,6.97,5.8
+Company_383,Small,Manufacturing,Africa,2018,6.04,34868.18,Upward,2.1,3.63,2.83
+Company_384,Medium,Finance,North America,2008,9.07,55229.78,Stable,1.2,8.79,2.79
+Company_385,Large,Technology,Africa,2002,2.39,11240.28,Downward,3.4,7.25,4.05
+Company_386,Medium,Retail,Europe,2020,4.7,26141.18,Downward,4.1,1.13,9.99
+Company_387,Large,Technology,Europe,2008,4.5,41055.78,Stable,3.4,4.08,0.55
+Company_388,Medium,Manufacturing,Asia,2013,4.73,26130.8,Stable,4.1,8.86,5.79
+Company_389,Small,Finance,Africa,2018,6.23,,Downward,2,0.47,0.83
+Company_390,Small,Finance,North America,2006,4.7,38912.05,Downward,0.8,9.61,1.55
+Company_391,Medium,Manufacturing,North America,2015,4.47,31702.62,Upward,3.7,6.79,4.4
+Company_392,Large,Manufacturing,South America,2015,4.74,66952.52,Upward,1.8,6.31,5.1
+Company_393,Small,Retail,North America,2000,5.91,47929.57,Downward,3.4,2.71,2.59
+Company_394,Small,Finance,Asia,2003,5.37,17796.48,Upward,1.4,2.49,3.16
+Company_395,Small,Technology,Asia,2003,8.54,43605.5,Downward,0.4,9.42,0.87
+Company_396,Medium,Healthcare,North America,2006,0.49,56843.91,Downward,5,2.98,3.03
+Company_397,Medium,Healthcare,North America,2007,8.33,52509.38,Upward,0.8,7.76,9.67
+Company_398,Large,Manufacturing,South America,2016,8.44,20325.35,Upward,4.9,3.93,9.45
+Company_399,Large,Retail,North America,2004,2.85,68345.2,Stable,4.9,1.39,3.35
+Company_400,Large,Healthcare,South America,2006,4.63,36928.82,Stable,4,0.11,5.71
+Company_401,Medium,Finance,South America,2019,4.39,19541.5,Stable,3.3,5.44,9.1
+Company_402,Medium,Manufacturing,North America,2019,2.19,20811.75,Downward,2.9,9.76,0.06
+Company_403,Large,Technology,Europe,2003,3.97,15894.1,Upward,4.3,3.69,8.11
+Company_404,Large,Manufacturing,Europe,2005,0.44,58211.09,Downward,1.4,3.57,9.48
+Company_405,Medium,Technology,South America,2006,2.78,17321.83,Upward,2.3,3.44,0.91
+Company_406,Large,Manufacturing,North America,2017,8.17,17507.52,Downward,3.1,5.21,1.61
+Company_407,Small,Manufacturing,Europe,2004,2.85,61028.3,Stable,2.1,4.41,9.61
+Company_408,Medium,Manufacturing,North America,2019,8.18,30676.25,Stable,2.1,8.8,5.38
+Company_409,Large,Technology,North America,2002,5.32,11851.47,Stable,1.7,5.06,0.14
+Company_410,Medium,Technology,North America,2006,8.8,13113.72,Downward,2.8,5.08,2.58
+Company_411,Small,Manufacturing,Africa,2021,5.75,18530.23,Upward,4.3,1.38,4.5
+Company_412,Medium,Healthcare,North America,2013,0.3,,Upward,1,9.83,6.93
+Company_413,Medium,Retail,Africa,2006,6.75,49908.77,Stable,4.7,2.5,7.33
+Company_414,Medium,Retail,South America,2004,0.45,19439.58,Stable,3.4,0.73,9.95
+Company_415,Medium,Retail,Europe,2021,4.51,17132.46,Stable,4.1,6.63,2.88
+Company_416,Small,Technology,Europe,2004,9.29,55883.15,Stable,2.8,5.95,
+Company_417,Medium,Technology,Europe,2022,1.65,50263.32,Upward,3.9,4.15,5.33
+Company_418,Medium,Healthcare,Europe,2001,3.9,36119.45,Downward,0.1,4.22,4.06
+Company_419,Large,Retail,Europe,2020,7.3,42958.59,Downward,4.1,7.85,1.69
+Company_420,Medium,Retail,Europe,2021,8.82,28719.04,Downward,0.2,1.96,9.77
+Company_421,Large,Manufacturing,Europe,2005,6.71,38950.03,Downward,4.4,8.2,8.53
+Company_422,Small,Technology,South America,2014,2.58,40400.36,Stable,5,6.49,4.98
+Company_423,Small,Retail,North America,2020,6.75,33234.24,Stable,1.5,4.19,6.03
+Company_424,Small,Healthcare,Asia,2009,2.97,64394.33,Stable,1.1,4.58,2.27
+Company_425,Small,Healthcare,Africa,2022,7.18,10963.71,Downward,3.8,2.57,5.44
+Company_426,Large,Retail,Asia,2023,9.54,56930.28,Stable,1.3,7.52,6.95
+Company_427,Medium,Technology,Asia,2006,7.21,17462.97,Stable,4.3,5.13,5.15
+Company_428,Small,Healthcare,North America,2004,8.63,57852.84,Upward,0.5,3.21,9.9
+Company_429,Medium,Manufacturing,North America,2000,0.02,46954.71,Upward,0.6,5.96,6.11
+Company_430,Large,Healthcare,North America,2012,7.18,60596.69,Stable,4.9,9.96,3.71
+Company_431,Large,Finance,Europe,2020,8.3,15850.86,Upward,3.4,4.35,7.72
+Company_432,Large,Finance,South America,2017,0.41,43538.84,Upward,4.2,9.21,1.7
+Company_433,Small,Technology,Europe,2012,8.72,,Stable,1.6,3.45,3.85
+Company_434,Medium,Retail,South America,2020,2.57,52371.59,Stable,3.4,0.55,3.47
+Company_435,Medium,Technology,South America,2020,6.65,42057.43,Stable,3,2.04,4.32
+Company_436,Medium,Technology,Asia,2017,8,42444.07,Stable,3,4.19,7.82
+Company_437,Large,Technology,Asia,2004,6.63,35775.76,Downward,3.4,2.2,4.84
+Company_438,Small,Technology,South America,2012,0.92,28530.07,Downward,2.9,0,7.94
+Company_439,Large,Manufacturing,South America,2003,5.96,38935.86,Stable,2.1,9.15,5.76
+Company_440,Large,Manufacturing,Europe,2016,5.5,,Upward,1.4,8.44,3.42
+Company_441,Medium,Healthcare,Europe,2002,9,67690.8,Stable,3.8,7.42,8.1
+Company_442,Large,Finance,Asia,2016,4.04,52864.65,Stable,1.1,1.68,2.38
+Company_443,Medium,Technology,North America,2010,3.21,,Upward,3.5,1.2,2.24
+Company_444,Small,Healthcare,South America,2020,7.5,23603.64,Downward,1.2,0.68,5.05
+Company_445,Medium,Finance,Europe,2019,4.13,62760.46,Stable,3.1,7.24,2.61
+Company_446,Small,Retail,Asia,2022,6.46,58527.4,Stable,3.7,9.29,0.09
+Company_447,Medium,Manufacturing,Europe,2020,6.46,50629.14,Downward,1.1,4.31,6.48
+Company_448,Large,Finance,South America,2003,8.88,47501.75,Downward,0.3,1.19,5.11
+Company_449,Large,Retail,South America,2001,5.99,28992.98,Upward,0.7,5.12,4.46
+Company_450,Small,Finance,Africa,2019,5.02,58984.65,Downward,3,3.49,9.67
+Company_451,Small,Manufacturing,North America,2015,1.39,40090.93,Downward,4.2,3.75,5.71
+Company_452,Small,Manufacturing,Africa,2017,1.16,14253.49,Downward,0.2,6.21,8.63
+Company_453,Medium,Healthcare,Asia,2007,1.54,28771.79,Upward,3.7,7.19,1.39
+Company_454,Medium,Technology,Europe,2002,1.72,66117.83,Downward,1.7,1.11,5.69
+Company_455,Small,Finance,Asia,2008,,61040.82,Downward,2.4,0.36,8.68
+Company_456,Large,Finance,South America,2019,,68914.34,Upward,4.6,9.94,5.83
+Company_457,Medium,Retail,Africa,2005,5.3,47679.6,Downward,1.7,2.33,7.18
+Company_458,Medium,Manufacturing,Africa,2009,8.29,24850.6,Downward,2.3,0.54,3.72
+Company_459,Medium,Finance,Africa,2020,9.91,19768.9,Upward,0.1,1.9,0.92
+Company_460,Small,Manufacturing,Asia,2009,8.2,21214.87,Stable,0.4,0.39,
+Company_461,Small,Finance,South America,2012,6.95,11187.74,Upward,1.3,3.92,3.94
+Company_462,Small,Healthcare,Europe,2016,5.32,33440.93,Downward,0.1,8.02,8.67
+Company_463,Small,Technology,Europe,2008,4.49,,Downward,3.2,3.41,2.44
+Company_464,Small,Finance,Asia,2016,0.84,34699.33,Downward,2.1,4.44,9.67
+Company_465,Large,Manufacturing,,2023,3.99,66099.67,Upward,2.7,6.76,9.58
+Company_466,Large,Healthcare,North America,2008,9.1,35832.41,Downward,0.9,5.09,2.48
+Company_467,Small,Finance,Asia,2008,8.08,62679.07,Downward,1.5,8.61,3.48
+Company_468,Medium,Retail,Asia,2000,2.16,46330.29,Upward,3.3,8.66,8.96
+Company_469,Small,Technology,South America,2001,4.67,24827.89,Stable,4.8,0.1,9.67
+Company_470,Large,Finance,Europe,2015,8.17,31351.29,Stable,0.3,7.78,4.43
+Company_471,Large,Healthcare,Asia,2000,0.67,15035.17,Downward,4.5,4.61,3.21
+Company_472,Medium,Retail,Asia,2009,3.87,30007.76,Upward,2.9,9.89,5.26
+Company_473,Large,Healthcare,Africa,2017,8.52,50652.46,Downward,2.8,4.83,6.88
+Company_474,Small,Healthcare,Africa,2007,,,Upward,2.5,9.87,2.73
+Company_475,Medium,Retail,North America,2020,0.78,22324.08,Upward,0.3,7.55,7.36
+Company_476,Small,Healthcare,South America,2010,5.43,32886.46,Stable,0.4,2.49,0.52
+Company_477,Small,Retail,North America,2022,8.62,68922.97,Stable,3,5.38,0.49
+Company_478,Medium,Finance,Africa,2001,5.9,57091.71,Upward,1.7,9.92,3.86
+Company_479,Small,Retail,Europe,2007,2.26,,Downward,4.6,8.58,3.53
+Company_480,Large,Retail,Africa,2021,,16971.46,Stable,2,0.97,3.16
+Company_481,Small,Technology,South America,2007,4.5,56859.75,Downward,0.7,7.06,4.91
+Company_482,Medium,Retail,Africa,2016,,57116.13,Stable,3.6,3.46,3.21
+Company_483,Medium,Retail,South America,2014,,46066.16,Stable,1.5,0.07,1.92
+Company_484,Medium,Finance,South America,2016,0.99,,Downward,2.6,4.03,3.09
+Company_485,Small,Technology,South America,2022,8.9,,Stable,3.5,2.35,9.75
+Company_486,Medium,Manufacturing,South America,2023,0.12,,Stable,4.5,8.19,4.11
+Company_487,Medium,Finance,South America,2012,3.7,,Downward,4,3.37,4.45
+Company_488,Small,Finance,Europe,2018,0.27,10688.84,Stable,3.4,8.28,5.77
+Company_489,Large,Manufacturing,North America,2004,3.93,,Stable,3.4,0.01,9.83
+Company_490,Small,Retail,Asia,2011,5.26,68626.25,Stable,4.7,3.08,2.42
+Company_491,Medium,Healthcare,North America,2000,5.12,16187.28,Downward,1.5,2.41,6.81
+Company_492,Medium,Technology,South America,2022,1.66,42867.08,Upward,0,2.34,7.16
+Company_493,Small,Healthcare,Europe,2004,6.46,68737.45,Downward,1.4,0.68,6.07
+Company_494,Large,Manufacturing,Africa,2007,0.45,43329.73,Upward,1.1,1.87,0.89
+Company_495,,Finance,Europe,2012,7.62,21388.92,Stable,3.3,5.56,6.77
+Company_496,Medium,Finance,South America,2007,9.47,44930.99,Upward,3.2,2.91,0.64
+Company_497,Medium,Technology,Europe,2022,3.4,22266.43,Downward,3,4.17,5.96
+Company_498,Small,Finance,Europe,2010,5.17,41182.26,Downward,0.1,3.77,
+Company_499,Medium,Finance,South America,2000,3.79,14442.53,Stable,3.6,8.76,2.11
+Company_500,Large,Technology,Europe,2012,0.07,46328.96,Upward,1.6,9.05,8.42
+Company_501,Medium,Technology,Asia,2018,3.86,41007.4,Stable,3.3,4.93,0.3
+Company_502,Medium,Manufacturing,Asia,2023,7.92,54409.68,Stable,2.8,3.3,8.44
+Company_503,Large,Finance,Europe,2002,5.96,47842.03,Downward,1.7,1.07,4.6
+Company_504,Medium,Finance,Africa,2023,1.01,42976.38,,0.7,9.53,2.18
+Company_505,Small,Manufacturing,South America,2016,8.47,51386.73,,0.5,0.6,1.34
+Company_506,Small,Retail,Asia,2004,5.31,18636.51,Upward,4.2,2.98,9.53
+Company_507,Small,Retail,Africa,2019,8.42,45721.58,Upward,4.6,2.98,0.73
+Company_508,Large,Retail,Europe,2020,5.8,20326.64,Stable,3.2,3.2,1.99
+Company_509,Medium,Manufacturing,Africa,2007,5.6,65531.33,Stable,0.5,1.64,3.48
+Company_510,Small,Finance,North America,2013,1.05,14100.05,Downward,2,7.83,6.2
+Company_511,Large,Manufacturing,Asia,2003,,35822.48,Stable,3.6,1.22,5.45
+Company_512,Medium,Manufacturing,Europe,2010,9.72,,Stable,3.9,6.35,1.26
+Company_513,Large,Retail,South America,2019,2.28,37481.33,Downward,0.6,1.24,2.9
+Company_514,Small,Healthcare,Europe,2014,9.77,15525.72,Downward,0,0.71,2.39
+Company_515,Small,Finance,South America,2018,5.32,43202.74,Downward,3.6,9.09,2.14
+Company_516,Small,Retail,Europe,2006,1.36,48497.91,Stable,1.8,1.9,4.11
+Company_517,Large,Healthcare,Africa,2018,0.99,52227.54,Stable,1.3,8.21,7.04
+Company_518,Large,Healthcare,Africa,2018,2.09,32395.59,Downward,,5.45,2.17
+Company_519,Small,Technology,Africa,2010,9.26,43819.6,Downward,2.7,0.78,3.67
+Company_520,Large,Finance,North America,2004,4.14,37041.19,Downward,4.3,9.55,3.91
+Company_521,Small,Healthcare,South America,2004,3.95,50323.36,Stable,4.8,2.47,9.76
+Company_522,Small,Retail,Africa,2021,3.13,45013.42,Stable,2.8,8.6,9.55
+Company_523,Medium,Technology,North America,2007,1.47,41545.37,,2.6,1.69,8
+Company_524,Large,Finance,South America,2009,4.88,24971.46,Stable,0.4,8.54,2.42
+Company_525,Small,Manufacturing,Europe,2005,1.3,,Stable,2.7,0.13,0.68
+Company_526,Small,Retail,North America,2014,8.35,20444.9,Stable,1.9,5.12,3.17
+Company_527,Large,Healthcare,Asia,2015,3.7,17023.96,Downward,3,7.69,2.67
+Company_528,,Healthcare,North America,2016,3.75,36945.08,Stable,1.9,9.35,5.06
+Company_529,Medium,Retail,North America,2007,4.74,46735.49,Downward,1.2,9.09,7.78
+Company_530,Small,Healthcare,South America,2007,4.44,22785.1,Upward,0.5,8.2,8.58
+Company_531,Large,Technology,Europe,2008,9.95,66343.43,Upward,,8.88,8.45
+Company_532,Medium,Finance,Asia,2001,5.45,10400.93,Downward,,1.99,3.6
+Company_533,Large,Technology,Africa,2014,0.88,,Downward,,2.84,6.87
+Company_534,Large,Healthcare,Africa,2017,6.07,47512.29,Downward,,2.89,3.13
+Company_535,Small,Manufacturing,North America,2002,1.52,32413.29,Stable,,3.77,0.61
+Company_536,Medium,Finance,South America,2016,0.31,,Upward,,3.93,7.02
+Company_537,Small,Finance,South America,2003,9.71,47649.19,Downward,4.4,5.45,0.1
+Company_538,Medium,Retail,Africa,2003,7.74,,Stable,5,1.6,4.09
+Company_539,Medium,Retail,Asia,2013,9.8,66176.03,Upward,2.9,6.91,3.29
+Company_540,Medium,Manufacturing,Europe,2008,4.78,42519.4,Stable,4.1,1.68,6.93
+Company_541,Medium,Finance,Asia,2008,5.32,66379.09,Upward,1.6,3.1,7.66
+Company_542,Medium,Manufacturing,Europe,2022,1.68,23229.02,Stable,1.5,5.03,3.04
+Company_543,Large,Retail,Africa,2017,2.47,53543.55,Upward,2,7.96,8.12
+Company_544,Small,Retail,Europe,2009,8.39,47034.94,Upward,3.4,7.39,2.94
+Company_545,Large,Finance,South America,2020,3.56,54364.49,Stable,3.4,6.46,4.46
+Company_546,Medium,Technology,North America,2003,8.27,22880.07,Downward,1.6,1.56,7.27
+Company_547,Small,Healthcare,North America,2011,7.09,49899.67,Upward,0.7,5.47,6.93
+Company_548,Medium,Retail,Africa,2007,1.77,39882.42,Downward,3.2,0.87,9.87
+Company_549,Small,Retail,South America,2001,5.07,54569.5,Stable,0.6,3.77,2.25
+Company_550,Large,Technology,Asia,2021,6.77,29622.68,Downward,2.9,4.14,6.62
+Company_551,Small,Technology,South America,2012,2.35,63403.42,Downward,3.5,0.4,6.1
+Company_552,Small,Manufacturing,North America,2020,8.31,15058.08,Downward,3.5,2.74,9.15
+Company_553,Small,Manufacturing,North America,2015,5.45,58431.36,Downward,3.8,9.56,1.56
+Company_554,Small,Healthcare,South America,2001,,61679.18,Downward,4.4,9.54,7.52
+Company_555,Small,Healthcare,South America,2010,5.83,59035.14,Upward,2.5,3.52,5.68
+Company_556,Medium,Finance,North America,2009,10,40763.58,Upward,3.7,0.43,2.75
+Company_557,Small,Manufacturing,Asia,2014,1.51,36303.1,Upward,3.1,1.79,4.74
+Company_558,Small,Retail,Africa,2016,8.17,69775.74,Stable,0.9,3.92,3.34
+Company_559,Large,Manufacturing,Africa,2007,2.07,23750.32,Downward,0.1,9.48,5.79
+Company_560,Small,Retail,South America,2017,7.82,42812.56,Upward,1.4,1.41,8.89
+Company_561,Large,Technology,Africa,2022,7.35,50240.53,Stable,2.2,7.64,5.69
+Company_562,Medium,Manufacturing,North America,2008,3,52052.06,Upward,3.1,1.09,6.32
+Company_563,Small,Technology,North America,2007,3.26,22241.48,Upward,4.2,9.81,5.19
+Company_564,Large,Healthcare,South America,2013,7.93,49239.65,Downward,1,3.82,0.51
+Company_565,Large,Healthcare,South America,2017,4.61,59102.17,Stable,0.6,7.75,2.33
+Company_566,Medium,Finance,South America,2021,7.31,13001.11,Downward,4.8,3.43,4.92
+Company_567,Small,Manufacturing,Asia,2019,1.48,64691.28,Downward,0.5,6.28,3.1
+Company_568,Small,,Africa,2019,8.53,11770.24,Upward,2.4,1.92,1.82
+Company_569,,Retail,South America,2020,7.11,31358.26,Downward,2.9,1.46,5.04
+Company_570,Small,Healthcare,Europe,2011,9.07,10948.79,Stable,2.7,9.38,3.23
+Company_571,Large,Healthcare,Europe,2018,1.32,14628.71,Downward,0.4,9.18,2.58
+Company_572,Small,Retail,North America,2013,5.93,64670.1,Downward,0.3,8.87,4.64
+Company_573,Large,Technology,Africa,2016,5.99,31291.65,Downward,0.5,6.25,1.33
+Company_574,Small,Technology,South America,2023,3.53,35486.29,Upward,2.9,8.08,9.28
+Company_575,Medium,Manufacturing,Europe,2020,4.58,22920.66,Stable,2.7,0.69,8.68
+Company_576,Small,Manufacturing,Africa,2002,0.38,45825.75,Upward,1.2,3.35,7.08
+Company_577,Small,Finance,North America,2022,7.46,45688.19,Upward,3.2,3.14,1.06
+Company_578,Medium,Healthcare,Asia,2006,5.49,32332.02,Upward,4.1,6.36,7.76
+Company_579,,Manufacturing,Africa,2016,0.58,29982.09,Upward,0.2,3.56,8.08
+Company_580,Medium,Technology,Africa,2011,6.81,63097.86,Upward,2.5,1.49,7.68
+Company_581,Small,Retail,Asia,2008,4.67,32997.05,Stable,3.4,5.96,1.14
+Company_582,Large,Technology,Africa,2014,0.34,39610.06,Downward,1.3,8.14,6.44
+Company_583,Large,Healthcare,North America,2017,9.7,26998.29,Upward,1.5,3.82,8.34
+Company_584,Small,Technology,North America,2020,9.49,57206.17,Upward,3.1,1.32,5.77
+Company_585,Small,Finance,Asia,2012,5.13,33846.89,Stable,4.5,1.97,6.46
+Company_586,Small,Healthcare,South America,2020,0.94,40816.66,Stable,4,2.37,4.58
+Company_587,Large,Retail,Europe,2007,7.55,25201.43,Downward,2.9,3,5.29
+Company_588,Small,Finance,South America,2013,4.92,69259.58,Stable,3.7,6.43,0.34
+Company_589,Large,Healthcare,Africa,2007,,27489.74,Downward,1.8,6.01,6.39
+Company_590,Medium,Retail,Europe,2013,,56244.55,Upward,3.2,6.96,0.81
+Company_591,Large,Finance,Asia,2006,,35649.74,Upward,2.3,3.63,4.35
+Company_592,Large,Finance,Asia,2022,5.63,22373.04,Downward,0.9,8.24,2.93
+Company_593,Medium,Healthcare,Europe,2011,4.41,57983.13,Stable,3.5,2.04,5.45
+Company_594,Large,,North America,2010,6.06,30016.41,Downward,2.8,4.69,1.33
+Company_595,Small,Finance,Europe,2021,9.19,61911.6,Stable,1.8,8.01,6.92
+Company_596,Small,Finance,Africa,2021,3.62,64915.43,Upward,4.6,1.8,7.95
+Company_597,Large,Retail,North America,2010,7.26,61589.43,Stable,0.1,1.1,1.63
+Company_598,Small,,Asia,2021,8.94,12100.47,Downward,1.6,8.84,1.04
+Company_599,Large,,Europe,2012,4.56,57242.4,Downward,0.3,3.43,1.46
+Company_600,Small,,South America,2017,4.43,34680.37,Upward,3.8,6.84,8.77
+Company_601,Small,,South America,2001,6.02,62423.38,Stable,3.5,0.25,5.28
+Company_602,Large,Manufacturing,Africa,2020,5.91,48277.26,Stable,1.7,6.9,4.67
+Company_603,Small,Healthcare,South America,2014,8.07,60018.59,Stable,3.4,3.16,1.07
+Company_604,Large,Manufacturing,Europe,2019,4.76,39965.91,Upward,2,0.56,6.5
+Company_605,Small,Retail,Europe,2017,9.96,42101.53,Stable,3.8,6.1,8.68
+Company_606,Small,Healthcare,South America,2014,0.59,18663.26,Downward,2.3,2.41,8.28
+Company_607,Medium,Manufacturing,Europe,2018,0.03,57039.24,Stable,2.1,3.87,6.26
+Company_608,Medium,Healthcare,Africa,2022,6.4,35163.38,Upward,4.7,0.81,0.75
+Company_609,Large,Technology,North America,2023,2.98,40004.81,Stable,1.3,1.47,1.12
+Company_610,Medium,Finance,Africa,2011,2.4,57105.86,Stable,0.6,2.98,0.49
+Company_611,Large,Healthcare,Africa,2012,3.12,45930.72,Downward,2.9,0.9,2.57
+Company_612,Medium,Finance,Europe,2021,2.56,22065.92,Stable,4.8,9.11,1.36
+Company_613,Small,Manufacturing,North America,2010,0.31,45413.96,Downward,1.9,0.06,2.6
+Company_614,Large,Finance,Europe,2004,9.72,34457.97,Downward,0.3,4.84,3.85
+Company_615,Large,Healthcare,Asia,2000,,38171.53,Upward,1.7,1.23,9.43
+Company_616,Small,Technology,Europe,2023,7.34,11698.68,Downward,2.5,3.08,6.1
+Company_617,Large,Manufacturing,Europe,2002,7.63,22601.76,Downward,0.8,9.26,8.35
+Company_618,Large,Healthcare,Europe,2021,9.29,26862.28,Upward,3.3,1.62,7.1
+Company_619,Medium,Manufacturing,North America,2018,0.31,52777.6,Downward,5,9.66,1.13
+Company_620,Large,Retail,Europe,2022,8.72,10689.55,Upward,2.3,2.06,7.36
+Company_621,Small,Finance,North America,2006,5.27,34526.64,Stable,1.8,7.42,2.75
+Company_622,Medium,Retail,South America,2011,6.33,65441.61,Upward,2,5.47,6.39
+Company_623,Medium,Healthcare,Asia,2014,6.44,16712.84,Downward,0.6,8.84,3.41
+Company_624,Small,Technology,North America,2004,8.2,40985.46,Upward,4.4,5.54,9.98
+Company_625,Small,Manufacturing,South America,2014,3.33,57191.34,Downward,2.1,5.35,2.64
+Company_626,Medium,Finance,North America,2007,7.33,66551.88,Stable,1.9,1.95,2.79
+Company_627,Large,Manufacturing,North America,2009,5.29,54806.6,Upward,3.3,1.66,9.31
+Company_628,Medium,Healthcare,Asia,2015,7.93,53233.93,Stable,2.2,9.16,0.25
+Company_629,Small,Manufacturing,Africa,2007,9.91,59589.29,Downward,3.2,3.28,6.97
+Company_630,Medium,Finance,Africa,2000,2.01,36772.07,Downward,0.3,3.72,7.25
+Company_631,Small,Healthcare,North America,2011,9.95,58350.67,Stable,4.1,7.6,8.36
+Company_632,Medium,Manufacturing,Europe,2004,0.9,10477.86,Upward,4.7,3.39,9.74
+Company_633,Large,Technology,South America,2002,0.02,65473.66,Upward,3.2,9.52,9.76
+Company_634,Medium,Healthcare,Europe,2000,0.44,36598.39,Downward,4.8,7.38,0.65
+Company_635,Medium,Healthcare,Europe,2003,3.42,43202.81,Stable,0.8,5.97,8.22
+Company_636,Small,Technology,North America,2007,6.33,25292.93,Stable,2.4,8.81,6.46
+Company_637,Small,Retail,North America,2002,0.69,54551.85,Upward,3,0.5,6.47
+Company_638,Small,Finance,North America,2009,0.06,14598.15,Upward,2.9,2.57,1.28
+Company_639,Medium,Retail,North America,2001,9.37,62358.15,Upward,2,4.65,6.5
+Company_640,Large,Manufacturing,Africa,2010,8.22,59687.01,Stable,1.7,2.27,9.82
+Company_641,Small,Technology,North America,2009,8.09,22963.61,Upward,0.6,7.44,9.12
+Company_642,Small,Retail,Africa,2020,8.84,58559.46,Upward,2,9.19,4.39
+Company_643,Medium,Healthcare,Africa,2013,7,57181.46,Downward,0.8,4.24,0.4
+Company_644,Small,Manufacturing,North America,2006,1.04,47933,Upward,3.7,3.42,3.62
+Company_645,Large,Manufacturing,Asia,2001,,32411.21,Upward,1,9.62,8.26
+Company_646,Large,Retail,South America,2008,7.23,26289.93,Stable,0.3,4.45,7.01
+Company_647,Small,Retail,Europe,2015,2.8,23907.02,Stable,2.8,4.89,4.59
+Company_648,Small,Technology,Africa,2012,6.87,29116.54,Downward,3,3.52,0.55
+Company_649,Medium,Finance,South America,2008,0.24,64213.51,Upward,4.4,9.1,4.27
+Company_650,Large,Retail,Asia,2019,3.06,14658.45,Downward,2.9,5.69,4.69
